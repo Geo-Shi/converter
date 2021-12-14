@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   },
   instructions: {
     color: '#fff',
-    fontSize: 18,
+    fontSize: 30,
     marginHorizontal: 15,
   }, 
   input: {
